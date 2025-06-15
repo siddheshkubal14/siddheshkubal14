@@ -121,43 +121,13 @@
 | ⚙️ DevOps & Automation          | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           | 🤖 Conversational & Generative AI | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           |
 
 
-  <div style="flex: 1;">
-    <h3>🏆 Certifications</h3>
+### 🏆 Certifications
 
-    <p>
-      <a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" alt="Google Professional Cloud Architect" height="80" />
-        <br />
-        <strong>GCP Professional Cloud Architect (GCP PCA)</strong>
-      </a>
-    </p>
+| Certification                                      | Details                               | Certification                                   | Details                            |
+|--------------------------------------------------|-------------------------------------|------------------------------------------------|----------------------------------|
+| ![GCP PCA](https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png) | [GCP Professional Cloud Architect](https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url) | ![GCP ACE](https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png) | [GCP Associate Cloud Engineer](https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f) |
+| ![Google AI](https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png) | [Google Cloud Generative AI and LLM badges](https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9) | ![Goethe B1](https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-1/347582037_1201948690499020_4873536383682697745_n.png) | [GOETHE - ZERTIFIKAT B1](https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view) |
 
-    <p>
-      <a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" alt="GCP Associate Cloud Engineer" height="80" />
-        <br />
-        <strong>GCP Associate Cloud Engineer (GCP ACE)</strong>
-      </a>
-    </p>
-
-    <p>
-      <a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" alt="Google Generative AI Badge" height="80" />
-        <br />
-        <strong>Google Cloud Generative AI and LLM badges</strong>
-      </a>
-    </p>
-
-    <p>
-      <a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-1/347582037_1201948690499020_4873536383682697745_n.png?stp=dst-png_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=lEdozyB0F9sQ7kNvwFW3pNX&_nc_oc=AdkQ9ciHiPE-F6H9BbMKgOmZE6ug40Sz9c4acpjzFjwki8KkMgTGI3Vd5bjlt5Xwwh0&_nc_zt=24&_nc_ht=scontent-ber1-1.xx&_nc_gid=YsHjpRqKPh7FqPlcvUeONw&oh=00_AfPa4zzfSDQ10t7XbgpQvz2hgeOw5KKD6U16XOxd_yy7Ng&oe=685535D3" alt="Goethe Zertifikat B1" height="60" />
-        <br />
-        <strong>GOETHE - ZERTIFIKAT B1</strong>
-      </a>
-    </p>
-  </div>
-
-</div>
 
 ---
 <!-- 
