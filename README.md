@@ -112,36 +112,14 @@
 
 
 ---
+### 📊 Proficiency
 
-<div style="display: flex; gap: 40px;">
+| Skill                         | Level                      | Skill                        | Level                       |
+|-------------------------------|----------------------------|------------------------------|-----------------------------|
+| 🔧 Backend Development         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           | 🎨 Frontend / UI Development   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           |
+| 🔗 Microservices Architecture  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           | ☁️ Cloud Infrastructure         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           |
+| ⚙️ DevOps & Automation          | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           | 🤖 Conversational & Generative AI | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           |
 
-  <div style="flex: 1;">
-    <h3>📊 Proficiency</h3>
-
-    <p>🔧 Backend Development:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
-    </p>
-
-    <p>🎨 Frontend / UI Development:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
-    </p>
-
-    <p>🔗 Microservices Architecture:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
-    </p>
-
-    <p>☁️ Cloud Infrastructure:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
-    </p>
-
-    <p>⚙️ DevOps & Automation:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
-    </p>
-
-    <p>🤖 Conversational & Generative AI:<br/>
-      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
-    </p>
-  </div>
 
   <div style="flex: 1;">
     <h3>🏆 Certifications</h3>
