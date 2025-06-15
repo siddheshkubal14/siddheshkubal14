@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">I Delve in Full-Stack, Cloud & AI </h3>
+<h4 align="center">        🧑‍💻 Full-Stack | Cloud | AI </h3>
 
 ---
 
