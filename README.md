@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">I dwelve in Full-Stack, Cloud & AI </h3>
+<h3 align="center">I Delve in Full-Stack, Cloud & AI </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 7+ years of experience in Full-Stack Development & Cloud Architecture  
+- 🚀 7+ years of experience in Full-Stack Development & Cloud Architecture.  
 - 🧠 Conversational AI Specialist with 5+ years on Dialogflow & Google CCAI  
-- ☁️ GCP Professional Cloud Architect | GenAI Practitioner (Google Badges)  
-- 📦 Built 30+ production-grade projects (Web, AI, Cloud, Integrations)  
-- 🌍 Currently based in Berlin, Germany 
+- ☁️ GCP Professional Cloud Architect & GenAI Practitioner. 
+- 📦 Built 30+ production-grade projects with Web, AI & Cloud integrations.
+- 🌍 Currently based in Berlin, Germany.
 
 
 ---
@@ -102,7 +102,6 @@
 ## 🧰 Tools, Platforms & Collaboration
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -116,15 +115,24 @@
 
 ### 📊 Proficiency
 
-<h3>📊 Proficiency</h3>
-<ul>
-  <li>🔧 Backend Development: <progress value="90" max="100"></progress> 90%</li>
-  <li>🎨 Frontend / UI Development: <progress value="80" max="100"></progress> 75%</li>
-  <li>🔗 Microservices Architecture: <progress value="90" max="100"></progress> 90%</li>
-  <li>☁️ Cloud Infrastructure: <progress value="85" max="100"></progress> 80%</li>
-  <li>⚙️ DevOps & Automation: <progress value="80" max="100"></progress> 75%</li>
-  <li>🤖 Conversational & Generative AI: <progress value="78" max="100"></progress> 70%</li>
-</ul>
+- 🔧 Backend Development:  
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+
+- 🎨 Frontend / UI Development: 
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+
+- 🔗 Microservices Architecture: 
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+
+- ☁️ Cloud Infrastructure:  
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+
+- ⚙️ DevOps & Automation:
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+
+- 🤖 Conversational & Generative AI: 
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+
 
 ---
 
@@ -133,29 +141,37 @@
 
 <p align="left">
 
-<a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank">
-  <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" alt="Google Professional Cloud Architect" height="80"/>
-  [**GCP Professional Cloud Architect (GCP PCA)**](https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url)
-</a>  
+  <a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" alt="Google Professional Cloud Architect" height="80" />
+    <br />
+    <strong>GCP Professional Cloud Architect (GCP PCA)</strong>
+  </a>
 
+  <br/><br/>
 
-<a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank">
-  <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" alt="GCP Associate Cloud Engineer" height="80"/>
-</a>  
-[**GCP Associate Cloud Engineer (GCP ACE)**](https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f)  
+  <a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" alt="GCP Associate Cloud Engineer" height="80" />
+    <br />
+    <strong>GCP Associate Cloud Engineer (GCP ACE)</strong>
+  </a>
 
-<a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank">
-  <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" alt="Google Generative AI Badge" height="80"/>
-</a>  
-[**Google Cloud Generative AI and LLM badges**](https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9)  
+  <br/><br/>
 
-<a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank">
-  <img src="https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-1/347582037_1201948690499020_4873536383682697745_n.png?stp=dst-png_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=lEdozyB0F9sQ7kNvwFW3pNX&_nc_oc=AdkQ9ciHiPE-F6H9BbMKgOmZE6ug40Sz9c4acpjzFjwki8KkMgTGI3Vd5bjlt5Xwwh0&_nc_zt=24&_nc_ht=scontent-ber1-1.xx&_nc_gid=YsHjpRqKPh7FqPlcvUeONw&oh=00_AfPa4zzfSDQ10t7XbgpQvz2hgeOw5KKD6U16XOxd_yy7Ng&oe=685535D3" alt="Goethe Zertifikat B1" height="60"/>
-</a>  
-[**GOETHE - ZERTIFIKAT B1**](https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view)  
+  <a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" alt="Google Generative AI Badge" height="80" />
+    <br />
+    <strong>Google Cloud Generative AI and LLM badges</strong>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-1/347582037_1201948690499020_4873536383682697745_n.png?stp=dst-png_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=lEdozyB0F9sQ7kNvwFW3pNX&_nc_oc=AdkQ9ciHiPE-F6H9BbMKgOmZE6ug40Sz9c4acpjzFjwki8KkMgTGI3Vd5bjlt5Xwwh0&_nc_zt=24&_nc_ht=scontent-ber1-1.xx&_nc_gid=YsHjpRqKPh7FqPlcvUeONw&oh=00_AfPa4zzfSDQ10t7XbgpQvz2hgeOw5KKD6U16XOxd_yy7Ng&oe=685535D3" alt="Goethe Zertifikat B1" height="60" />
+    <br />
+    <strong>GOETHE - ZERTIFIKAT B1</strong>
+  </a>
 
 </p>
-
 ---
 <!-- 
 ### 📂 Highlight Projects
@@ -174,7 +190,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddhesh-kubal)  
 - 🌐 [Portfolio](https://siddhesh-kubal.vercel.app)  
-- 📧 Email: [your.email@example.com](mailto:siddhesh14.kubal@gmail.com)  
+- 📧 Email: [siddhesh14.kubal@gmail.com](mailto:siddhesh14.kubal@gmail.com)  
 - 🧑‍💻 GitHub: [github.com/siddheshkubal14](https://github.com/siddheshkubal14)
 
 <p align="center">
