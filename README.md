@@ -115,24 +115,22 @@
 
 ### 📊 Proficiency
 
-🔧 Backend Development:  
+🔧 Backend Development:  <br/>
   🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
 
-🎨 Frontend / UI Development: 
+🎨 Frontend / UI Development: <br/>
   🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
 
-🔗 Microservices Architecture: 
+🔗 Microservices Architecture: <br/>
   🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
 
-☁️ Cloud Infrastructure:  
+☁️ Cloud Infrastructure:  <br/>
   🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
 
-⚙️ DevOps & Automation:
-
+⚙️ DevOps & Automation:<br/>
   🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
 
-🤖 Conversational & Generative AI:
-
+🤖 Conversational & Generative AI:<br/>
   🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
  
 
