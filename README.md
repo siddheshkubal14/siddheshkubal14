@@ -126,29 +126,19 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" height="60" style="vertical-align: middle; margin-right: 10px;" />
-    <strong>GCP Professional Cloud Architect (GCP PCA)</strong>
+    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" height="60" style="margin-right: 10px;" />
   </a>
-</p>
 
-<p align="left">
   <a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" height="60" style="vertical-align: middle; margin-right: 10px;" />
-    <strong>GCP Associate Cloud Engineer (GCP ACE)</strong>
+    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" height="60" style="margin-right: 10px;" />
   </a>
-</p>
 
-<p align="left">
   <a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" height="60" style="vertical-align: middle; margin-right: 10px;" />
-    <strong>Google Cloud Generative AI and LLM Badges</strong>
+    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" height="60" style="margin-right: 10px;" />
   </a>
-</p>
 
-<p align="left">
   <a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank">
-    <img src="https://banner2.cleanpng.com/20181115/pgx/kisspng-logo-goethe-institut-brand-green-product-9-18-1713922041523.webp" height="60" style="vertical-align: middle; margin-right: 10px;" />
-    <strong>Goethe-Zertifikat B1</strong>
+    <img src="https://cdn.artconnect.com/2022/956cf4a5-6c25-4370-9561-8d2e74a8dd73.png?fm=webp&w=250&h=250&fit=crop&mask=ellipse" height="60" style="margin-right: 10px;" />
   </a>
 </p>
 
