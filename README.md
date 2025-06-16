@@ -114,19 +114,49 @@
 ---
 ### 📊 Proficiency
 
-| Skill                         | Level                      | Skill                        | Level                       |
-|-------------------------------|----------------------------|------------------------------|-----------------------------|
-| 🔧 Backend Development         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           | 🎨 Frontend / UI Development   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           |
-| 🔗 Microservices Architecture  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           | ☁️ Cloud Infrastructure         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜           |
-| ⚙️ DevOps & Automation          | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           | 🤖 Conversational & Generative AI | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜           |
+| Skill                         | Level         | Skill                              | Level         |
+|------------------------------|---------------|-------------------------------------|---------------|
+| 🔧 Backend Development        | 🟩🟩🟩🟩⬜      | 🎨 Frontend / UI Development        | 🟩🟩🟩⬜⬜      |
+| 🔗 Microservices Architecture | 🟩🟩🟩🟩⬜      | ☁️ Cloud Infrastructure             | 🟩🟩🟩🟩⬜      |
+| ⚙️ DevOps & Automation        | 🟩🟩🟩⬜⬜      | 🤖 Conversational & Generative AI   | 🟩🟩🟩⬜⬜      |
+
 
 
 ### 🏆 Certifications
 
-| Certification                                      | Details                               | Certification                                   | Details                            |
-|--------------------------------------------------|-------------------------------------|------------------------------------------------|----------------------------------|
-| ![GCP PCA](https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png) | [GCP Professional Cloud Architect](https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url) | ![GCP ACE](https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png) | [GCP Associate Cloud Engineer](https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f) |
-| ![Google AI](https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png) | [Google Cloud Generative AI and LLM badges](https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9) | ![Goethe B1](https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-1/347582037_1201948690499020_4873536383682697745_n.png) | [GOETHE - ZERTIFIKAT B1](https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view) |
+<p align="left">
+
+  <a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" alt="Google Professional Cloud Architect" height="80" />
+    <br />
+    <strong>GCP Professional Cloud Architect (GCP PCA)</strong>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" alt="GCP Associate Cloud Engineer" height="80" />
+    <br />
+    <strong>GCP Associate Cloud Engineer (GCP ACE)</strong>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" alt="Google Generative AI Badge" height="80" />
+    <br />
+    <strong>Google Cloud Generative AI and LLM badges</strong>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://banner2.cleanpng.com/20181115/pgx/kisspng-logo-goethe-institut-brand-green-product-9-18-1713922041523.webp" alt="Goethe Zertifikat B1" height="60" />
+    <br />
+    <strong>GOETHE - ZERTIFIKAT B1</strong>
+  </a>
+
+</p>
 
 
 ---
