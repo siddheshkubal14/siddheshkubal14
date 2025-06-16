@@ -114,11 +114,31 @@
 ---
 ### 📊 Proficiency
 
-| Skill                         | Level         | Skill                              | Level         |
-|------------------------------|---------------|-------------------------------------|---------------|
-| 🔧 Backend Development        | 🟩🟩🟩🟩⬜      | 🎨 Frontend / UI Development        | 🟩🟩🟩⬜⬜      |
-| 🔗 Microservices Architecture | 🟩🟩🟩🟩⬜      | ☁️ Cloud Infrastructure             | 🟩🟩🟩🟩⬜      |
-| ⚙️ DevOps & Automation        | 🟩🟩🟩⬜⬜      | 🤖 Conversational & Generative AI   | 🟩🟩🟩⬜⬜      |
+<p align="left">
+🔧 Backend Development:  <br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+
+🎨 Frontend / UI Development: <br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+</p>
+
+
+<p align="left">
+🔗 Microservices Architecture: <br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+
+☁️ Cloud Infrastructure:  <br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+</p>
+
+<p align="left">
+⚙️ DevOps & Automation:<br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+
+🤖 Conversational & Generative AI:<br/>
+  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+</p>
+
 
 
 
