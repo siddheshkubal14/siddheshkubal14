@@ -126,16 +126,16 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/bdd08bb0-bf0f-4dc7-88ae-4edd7fba4963/public_url" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" height="80" />
+    <img src="https://siddhesh-kubal.vercel.app/static/media/pcaLogo.e10c6fe2b9b28eda2e8d.png" height="100" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/01c38aef-6083-46b4-9174-327e7922f11f" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" height="80" />
+    <img src="https://siddhesh-kubal.vercel.app/static/media/aceLogo.8084c6e830e78101605b.png" height="100" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://partner.cloudskillsboost.google/public_profiles/90de9af2-e73c-40e5-938d-e628afd50ef9" target="_blank">
-    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" height="80" />
+    <img src="https://siddhesh-kubal.vercel.app/static/media/silverLogo.70d73b4d3f16719698c7.png" height="100" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/17YmL3TZR69hkT2nx1pUvfD3834DKdrsA/view" target="_blank">
-    <img src="https://cdn.artconnect.com/2022/956cf4a5-6c25-4370-9561-8d2e74a8dd73.png?fm=webp&w=250&h=250&fit=crop&mask=ellipse" height="80" />
+    <img src="https://cdn.artconnect.com/2022/956cf4a5-6c25-4370-9561-8d2e74a8dd73.png?fm=webp&w=250&h=250&fit=crop&mask=ellipse" height="100" />
   </a>
 </p>
 
