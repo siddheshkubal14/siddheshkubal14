@@ -9,7 +9,7 @@
 - 🧠 Conversational AI Specialist with 5+ years on Dialogflow & Google CCAI  
 - ☁️ GCP Professional Cloud Architect & GenAI Practitioner. 
 - 📦 Built 30+ production-grade projects with Web, AI & Cloud integrations.
-- 🌍 Currently based in Berlin, Germany.
+- 🌍 Currently based in Mumbai, India.
 
 
 ---
